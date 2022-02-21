@@ -6,3 +6,5 @@ Contained code within this project uses python to show Git/GitHub's functionalit
 The test is executed using external computer connected with ssh connection using microsoft powershell terminal.
 
 ---
+
+Currently this respository is archived for read only.
